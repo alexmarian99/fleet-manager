@@ -1,0 +1,6 @@
+[submodule "fleet-manager-api"]
+	path = fleet-manager-api
+	url = https://github.com/alexmarian99/fleet-manager-api
+[submodule "fleet-manager-frontend"]
+	path = fleet-manager-frontend
+	url = https://github.com/alexmarian99/fleet-manager-frontend
